@@ -1,3 +1,3 @@
-# Romibo Robot Schematic Drawings ReadMe
+# Romibo Robot Mechanical Line Drawings ReadMe
 
-This repository contains the base schematic line drawings for the Romibo robot
+This repository contains the base mechanical line drawings for the Romibo robot
